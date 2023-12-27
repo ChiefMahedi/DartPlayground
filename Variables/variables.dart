@@ -2,8 +2,6 @@
 //'Chief Mahedi' here is a String object
 //Variable 'name' contains a reference to the String object with a value Chief Mahedi
 //Type String is inferred here when var is used
-import 'dart:web_audio';
-
 var name1 = 'Chief Mahedi';
 
 //Using Object type: when an object isn't restricted to a single type
