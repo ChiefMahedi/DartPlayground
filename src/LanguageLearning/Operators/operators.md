@@ -95,6 +95,32 @@ void main() {
 }
 
 ```
+Output:
+```bash
+Addition: 35
+Subtraction: 15
+Multiplication: 250
+Division: 2.5
+Integer Division: 2
+Modulus: 5
+Pre-increment b: 11
+Value of a after pre-increment: 11
+Post-increment b: 11
+Value of a after post-increment: 12
+a is not equal to b
+c is equal to b
+c is greater than b
+a is less than b
+b is less than or equal to a
+a is greater than or equal to b
+Variable 'name' is of type String
+Variable 'name' is not of type int
+Value of d after null-aware assignment: 11
+It's raining but not cold. Don't forget an umbrella!
+Either there's coffee or I'm tired. Time for a break!
+It's not sunny outside.
+Value of foo is: Hello
+```
 Notes:
 - When you use operators, you create expressions. 
 - The `== `operator, returns true if both operands are null, and false if only one is null.
