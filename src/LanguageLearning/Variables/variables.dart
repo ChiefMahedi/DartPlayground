@@ -1,3 +1,5 @@
+//Author: Mahedi Hassan Shawon
+//Notes can be found on variables.md file
 var name1 = 'Chief Mahedi';
 Object name2 = 'Chief Mahedi';
 String name3 = 'Chief Mahedi';

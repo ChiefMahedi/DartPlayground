@@ -1,5 +1,6 @@
-//Author: Mahedi Hassan Shawon
-//Notes can be found on operators.md file
+# Operators in Dart
+
+```dart
 void main() {
   var a = 10;
   var b = 25;
@@ -92,3 +93,12 @@ void main() {
   const foo = nullValue ?? 'Hello';
   print('Value of foo is: $foo');
 }
+
+```
+Notes:
+- When you use operators, you create expressions. 
+- The `== `operator, returns true if both operands are null, and false if only one is null.
+- Use the `as` operator to cast an object to a particular type if and only if you are sure that the object is of that type.
+- If you aren’t sure that the object is of that type, then use `is`  to check the type before using the object.
+- `condition ? expr1 : expr2 `- If condition is true, evaluates `expr1` (and returns its value); otherwise, evaluates and returns the value of `expr2`.
+- `expr1 ?? expr2` - If` expr1` is non-null, returns its value; otherwise, evaluates and returns the value of `expr2`.
