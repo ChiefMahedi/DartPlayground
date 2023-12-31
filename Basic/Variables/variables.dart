@@ -1,11 +1,11 @@
 //Author: Mahedi Hassan Shawon
 //Notes can be found on variables.md file
-var name1 = 'Chief Mahedi';
-Object name2 = 'Chief Mahedi';
-String name3 = 'Chief Mahedi';
-String? name4;
-String name5 = 'Chief Mahedi';
 void main() {
+  var name1 = 'Chief Mahedi';
+  Object name2 = 'Chief Mahedi';
+  String name3 = 'Chief Mahedi';
+  String? name4;
+  String name5 = 'Chief Mahedi';
   int number;
   bool condition = true;
   if (condition) number = 1;
