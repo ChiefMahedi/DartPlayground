@@ -1,7 +1,8 @@
+[![My Skills](https://skillicons.dev/icons?i=dart)](https://github.com/ChiefMahedi/DartPlayground)
 # DartPlayground: My Dart Learning Journey
 
 ## Description
-This repository is my Dart learning hub. It's packed with exercises, notes, and examples that track my adventures exploring Dart's different concepts.
+Within this repository lies my Dart learning journey. It houses a diverse array of code snippets, exercises, and examples meticulously crafted to unravel the intricacies of Dart programming. Explore alongside me as I delve into various concepts, from the basics of syntax to the depths of advanced features, charting my progress and discoveries in the world of Dart
 
 ## Installation
 
@@ -12,17 +13,15 @@ Clone this repository to your local machine:
 git clone https://github.com/ChiefMahedi/DartPlayground.git
 ```
 ### Install Dart SDK
-To install the Dart SDK to execute the programs visit [Get Dart SDK on Their Official Website](https://dart.dev/get-dart)
+To run Dart programs, you'll need to install the Dart SDK (Software Development Kit). The SDK includes everything necessary to write, compile, and execute Dart code. To install the Dart SDK and kickstart your Dart journey, visit [Get Dart SDK on Their Official Website](https://dart.dev/get-dart)
 
 ## Usage
-- The `LanguageLearning/` folder contains various Dart code snippets and notes demonstrating different concepts.
-- The `exercises/` directory includes exercises I've completed while learning Dart.
-- Each subfolder might have its own `.md` file for more specific instructions.
+- The `./Basics` folder contains various Dart code snippets and notes demonstrating basic concepts like variables, functions, data types, operators, etc .
 
 ## Folder Structure
-- `src/`
-  - `Exercises/`
-  - `LanguageLearning/`
+- `./Basics`
+- `./Intermediate`
+- `./Advanced`
 ## Learning Journey
 Throughout my learning expedition, the guidance and depth of information encapsulated within the [Official Dart Documentation](https://dart.dev/language/) became my trusted companion, paving the way for a comprehensive grasp of Dart's intricacies and functionalities. Its meticulous explanations and comprehensive examples were instrumental, nurturing my understanding and fueling my progress on this immersive journey into Dart programming.
 
